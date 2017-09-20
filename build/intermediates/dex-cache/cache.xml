@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\gcp\appengine_helloendpoints\appengine-endpoints-helloendpoints-android-master\HelloEndpointsProject\backend\build\libs\backend-android-endpoints.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c240619bd3fe1af75daf84179ff5f53af142d960">
+        <dex dex="C:\Users\han\gcp\appengine_helloendpoints\appengine-endpoints-helloendpoints-android-master\HelloEndpointsProject\HelloEndpoints\build\intermediates\pre-dexed\debug\backend-android-endpoints_64b827c32d0c53ff4b18bf7a9e0d335904a29b99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\4107b7749f6c224bc766f7a8ec50b855135d3a96\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\Users\han\gcp\appengine_helloendpoints\appengine-endpoints-helloendpoints-android-master\HelloEndpointsProject\HelloEndpoints\build\intermediates\pre-dexed\debug\classes_a909437bd5bb1bf9ac711113c1bb70029b5f5ab8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\han\gcp\appengine_helloendpoints\appengine-endpoints-helloendpoints-android-master\HelloEndpointsProject\HelloEndpoints\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_d6267d108258454c1b7083440e9338e477d733ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\36417cce625fd029f264f3df3881e79ec60a1d4d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="be555ed84d38d5d761d827a6c94ae5485692dba2">
+        <dex dex="C:\Users\han\gcp\appengine_helloendpoints\appengine-endpoints-helloendpoints-android-master\HelloEndpointsProject\HelloEndpoints\build\intermediates\pre-dexed\debug\classes_8ca460f9419070bdc83a40a5a2cc3cef2d8b8ec3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\3c1cc0a6524660c2eb0fc3e214b64f9efe75d379\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="C:\Users\han\gcp\appengine_helloendpoints\appengine-endpoints-helloendpoints-android-master\HelloEndpointsProject\HelloEndpoints\build\intermediates\pre-dexed\debug\classes_2ef5a74d6002c954d27857c8fc4098ac6acf5349.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\d3f11c0b87c56f641e346f42d8c2f068bfaa4138\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="C:\Users\han\gcp\appengine_helloendpoints\appengine-endpoints-helloendpoints-android-master\HelloEndpointsProject\HelloEndpoints\build\intermediates\pre-dexed\debug\classes_18e57e1a9b43a06f08dfd414231079e885537ef2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\0caa3a0d9b9cbea400305a1e49a60be8d67d9c59\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\han\gcp\appengine_helloendpoints\appengine-endpoints-helloendpoints-android-master\HelloEndpointsProject\HelloEndpoints\build\intermediates\pre-dexed\debug\classes_615ed278924bfdc553731a5bb9638e7f495dd6d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\14.0.1\69e12f4c6aeac392555f1ea86fab82b5e5e31ad4\guava-14.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69e12f4c6aeac392555f1ea86fab82b5e5e31ad4">
+        <dex dex="C:\Users\han\gcp\appengine_helloendpoints\appengine-endpoints-helloendpoints-android-master\HelloEndpointsProject\HelloEndpoints\build\intermediates\pre-dexed\debug\guava-14.0.1_2d7a959b7943a05f3b03e3d51e9a25378114f1e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\0caa3a0d9b9cbea400305a1e49a60be8d67d9c59\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\han\gcp\appengine_helloendpoints\appengine-endpoints-helloendpoints-android-master\HelloEndpointsProject\HelloEndpoints\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_ff639cd49717824c35e067d87aaf01b505baa7f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\ad504b886b9ecc6050935e6334fe1b17b97e9dde\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Users\han\gcp\appengine_helloendpoints\appengine-endpoints-helloendpoints-android-master\HelloEndpointsProject\HelloEndpoints\build\intermediates\pre-dexed\debug\classes_9cd84158ad7c8dc4989aeb29d11f6aacf5700959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\03aa349748d629d443e7df919accd907a15fc9cd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Users\han\gcp\appengine_helloendpoints\appengine-endpoints-helloendpoints-android-master\HelloEndpointsProject\HelloEndpoints\build\intermediates\pre-dexed\debug\classes_e17f55565cae906f043e75bc475e4a058437df23.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\han\\gcp\\appengine_helloendpoints\\appengine-endpoints-helloendpoints-android-master\\HelloEndpointsProject\\HelloEndpoints\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\han\\.android\\build-cache\\36417cce625fd029f264f3df3881e79ec60a1d4d\\output\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\han\\gcp\\appengine_helloendpoints\\appengine-endpoints-helloendpoints-android-master\\HelloEndpointsProject\\HelloEndpoints\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\han\\.android\\build-cache\\36417cce625fd029f264f3df3881e79ec60a1d4d\\output\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\han\\gcp\\appengine_helloendpoints\\appengine-endpoints-helloendpoints-android-master\\HelloEndpointsProject\\HelloEndpoints\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\han\\.android\\build-cache\\36417cce625fd029f264f3df3881e79ec60a1d4d\\output\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\han\\gcp\\appengine_helloendpoints\\appengine-endpoints-helloendpoints-android-master\\HelloEndpointsProject\\HelloEndpoints\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\han\\.android\\build-cache\\36417cce625fd029f264f3df3881e79ec60a1d4d\\output\\res\\drawable\\common_signin_btn_icon_light.xml"
+    }
+]
